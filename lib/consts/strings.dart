@@ -16,3 +16,18 @@ const loginWith = "Login with";
 const privacyPolicy = "Privacy Policy";
 const termsCond = "Terms and Conditions";
 const alreadyHaveAccount = "Already have an account? ";
+
+//home String
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account";
+
+//homeScreen string
+const searchAnything = "Search anything...",
+    todayDeal = "Today's Deal",
+    flashSale = "Flash Sale",
+    topSellers = "Top Sellers",
+    brand = "Brand",
+    topCategories = "Top Categories",
+    featuredCategories = "Featured Categories";
